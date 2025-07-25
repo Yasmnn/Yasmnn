@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yasmnn
 - 👀 I’m interested in data analyst
-- 🌱 I’m currently learning MySQL and Phyton, hope i can give my best on this field
+- 🌱 I’m currently learning MySQL and Phyton, hope i can give my best in this field
 
 <!---
 Yasmnn/Yasmnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
