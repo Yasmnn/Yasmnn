@@ -1,6 +1,6 @@
 ## 👋 Hi, i’m Yasmin ˚.🎀༘⋆
 
-I’m a data enthusiast who loves turning raw data into stories, patterns, and insights that matter 💗
+I’m a data enthusiast who loves turning raw data into stories, patterns, and insights that matter 💗  
 Currently, I’m sharpening my skills in PostgreSQL, Python, R, and Tableau — tools that help me transform messy datasets into something clear and meaningful 🫧✨
 
 📊 From cleaning and processing data to visualizing it in dashboards, i enjoy every step of the process (❀❛ ֊ ❛„)♡
